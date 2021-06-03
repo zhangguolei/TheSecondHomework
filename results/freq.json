@@ -1,0 +1,17 @@
+{"set": [["Agency", "OP"]], "sup": 1.0}
+{"set": [["Priority", 2.0]], "sup": 0.8078}
+{"set": [["Agency", "OP"], ["Priority", 2.0]], "sup": 0.8078}
+{"set": [["Area Id", 1.0]], "sup": 0.3546}
+{"set": [["Area Id", 1.0], ["Agency", "OP"]], "sup": 0.3546}
+{"set": [["Area Id", 3.0]], "sup": 0.3516}
+{"set": [["Area Id", 3.0], ["Agency", "OP"]], "sup": 0.3516}
+{"set": [["Area Id", 2.0]], "sup": 0.2938}
+{"set": [["Area Id", 2.0], ["Agency", "OP"]], "sup": 0.2938}
+{"set": [["Area Id", 1.0], ["Priority", 2.0]], "sup": 0.2931}
+{"set": [["Area Id", 1.0], ["Agency", "OP"], ["Priority", 2.0]], "sup": 0.2931}
+{"set": [["Area Id", 3.0], ["Priority", 2.0]], "sup": 0.2772}
+{"set": [["Area Id", 3.0], ["Agency", "OP"], ["Priority", 2.0]], "sup": 0.2772}
+{"set": [["Area Id", 2.0], ["Priority", 2.0]], "sup": 0.2375}
+{"set": [["Area Id", 2.0], ["Agency", "OP"], ["Priority", 2.0]], "sup": 0.2375}
+{"set": [["Priority", 1.0]], "sup": 0.1922}
+{"set": [["Agency", "OP"], ["Priority", 1.0]], "sup": 0.1922}
